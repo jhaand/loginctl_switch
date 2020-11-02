@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Switch To Desktop
+Exec=$HOME/bin/switch_to_user.sh
+Icon=/usr/share/icons/breeze-dark/applets/128/user-ada-lovelace.svg
+Categories=Utility
